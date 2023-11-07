@@ -58,8 +58,8 @@
 
 ![3](https://github.com/Divya110205/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119404855/03b0e178-ea1d-40a2-b921-1a30b07c9b1b)
 
-### Name: DIVYA.A
-### Register Number: 212222230034
+### Name: M.SUWETHA
+### Register Number: 212221230112
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
